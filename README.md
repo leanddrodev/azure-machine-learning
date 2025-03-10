@@ -88,7 +88,7 @@ O aprendizado de máquina automatizado permite que você experimente múltiplos 
      - **Habilitar empilhamento de conjunto**: `Não selecionado`
      - **Usar todos os modelos suportados**: `Não selecionado`. Você restringirá o trabalho para tentar apenas alguns algoritmos específicos.
     - **Modelos permitidos**: Selecione apenas **RandomForest** e **LightGBM** — normalmente você tentaria o máximo possível, mas cada modelo adicionado aumenta o tempo necessário para executar o trabalho.
-   - **Limitescc: Expandir seção.
+   - **Limites****: Expandir seção.
     - **Máximo de avaliações**: `3`
     - **Máximo de avaliações simultâneas**: `3`
     - **Máximo de nós**: `3`
